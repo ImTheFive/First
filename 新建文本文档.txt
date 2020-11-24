@@ -1,2 +1,15 @@
 2222
 https://www.guyuehome.com/9123
+
+ros安装参考
+	http://wiki.ros.org/kinetic/Installation/Ubuntu
+ros安装慢解决
+	https://blog.csdn.net/weixin_36628778/article/details/103713866
+离线的gazebo models下载
+	https://github.com/osrf/gazebo_models
+环境安装参考
+	https://blog.csdn.net/Lovely_him/article/details/107806662
+
+额外的依赖
+	sudo apt-get install ros-kinetic-joint-state-publisher-gui
+
